@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512208885 source:d:\Компютерні науки\oop\rozraha\main.cpp
+	<iostream>
+	<fstream>
+
